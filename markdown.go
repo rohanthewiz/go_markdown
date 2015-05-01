@@ -21,7 +21,6 @@ package blackfriday
 import (
 	"bytes"
 	"unicode/utf8"
-	"fmt"
 )
 
 const VERSION = "1.1"
