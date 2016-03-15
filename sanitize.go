@@ -3,9 +3,9 @@ package blackfriday
 import (
 	"bufio"
 	"bytes"
-	"code.google.com/p/go.net/html"
 	"fmt"
 	"io"
+	"golang.org/x/net/html"
 )
 
 // Whitelisted element tags, attributes on particular tags, attributes that are

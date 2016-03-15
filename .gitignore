@@ -2,6 +2,7 @@
 *.swp
 *.8
 *.6
+.idea/
 _obj
 _test*
 markdown
